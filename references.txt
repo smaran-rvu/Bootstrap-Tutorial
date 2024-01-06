@@ -1,0 +1,12 @@
+CDN/npm installation
+https://getbootstrap.com/docs/5.3/getting-started/download/
+
+General intro:
+https://getbootstrap.com/docs/5.3/content/reboot/?optionsRadios=option1
+
+Color templates:
+https://getbootstrap.com/docs/5.3/customize/color/
+
+Buttons:
+https://getbootstrap.com/docs/5.3/components/buttons/
+
